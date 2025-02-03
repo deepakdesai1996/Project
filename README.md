@@ -1,7 +1,9 @@
 
 ****📊 Ola Rides Analytics Dashboard (Power BI)**
 
-
+**Ola - Identified the reason & trend for ride cancellation
+Process – Cleaned and processed the data from multiple sources, applied SQL queries, visualized the trend using Power BI.
+Results – Reduced the cancellation rate by 10% by implementing a new strategy.**
 
 **1. Ride Volume Over Time**
 Tracks the total number of rides on a daily, weekly, and monthly basis.
